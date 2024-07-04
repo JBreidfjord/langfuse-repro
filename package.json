@@ -1,0 +1,12 @@
+{
+  "name": "langfuse-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "langfuse": "^3.14.0",
+    "openai": "^4.52.3"
+  }
+}
